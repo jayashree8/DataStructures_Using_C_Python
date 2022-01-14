@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1642044778 source:c:\users\domal\onedrive\desktop\data structures in c - reems thareja\circularlinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<malloc.h>
+

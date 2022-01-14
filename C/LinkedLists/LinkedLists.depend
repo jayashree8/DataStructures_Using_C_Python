@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1642035782 source:c:\users\domal\onedrive\desktop\data structures in c - reems thareja\linkedlists\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<malloc.h>
+
